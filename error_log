@@ -1,0 +1,2 @@
+[07-Dec-2017 10:55:56 UTC] PHP Fatal error:  Call to undefined function update_options() in /home/rainkyttiktkhk/public_html/wordpress-4.9/wordpress/wp-content/themes/twentyfifteen/functions.php on line 428
+[07-Dec-2017 10:56:09 UTC] PHP Fatal error:  Call to undefined function update_options() in /home/rainkyttiktkhk/public_html/wordpress-4.9/wordpress/wp-content/themes/twentyfifteen/functions.php on line 428
